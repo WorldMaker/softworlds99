@@ -1,0 +1,36 @@
+// Edit this for color changes.
+
+IMG {
+border: 0
+}
+BODY {
+color: white
+}
+TABLE {
+align: center
+}
+TABLE.norm {
+background: black;
+width: 90%
+}
+.bar {
+background: blue
+}
+TD.sub {
+font-size: 10pt
+}
+TH.att {
+background: orange;
+color: black
+}
+TH {
+color: red;
+background: orange
+}
+A {
+color: orange;
+text-decoration: none
+}
+A:hover {
+text-decoration: underline
+}

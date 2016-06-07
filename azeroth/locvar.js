@@ -1,0 +1,7 @@
+sitname = "Azeroth: Legacy"
+sitid = "az"
+sitsubid = "top"
+baseadd = "c:/download/softworlds/azeroth"
+homdress = "c:/download/wmonline/index.html"
+barlog = "c:/download/softworlds/images/wm.gif"
+sitlog = "c:/download/softworlds/azeroth/bar.jpg"

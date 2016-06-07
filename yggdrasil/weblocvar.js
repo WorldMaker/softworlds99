@@ -1,0 +1,11 @@
+buttontype = "a"
+sitname = "Yggdrasil Games"
+sitid = "ygg"
+sitsubid = "top"
+baseadd = "http://sw.itgo.com/yggdrasil"
+homdress = "http://members.xoom.com/WrldMakr/index.html"
+barlog = "http://sw.itgo.com/images/wm.gif"
+sitlog = "http://sw.itgo.com/yggdrasil/bar.jpg"
+sw = "http://sw.itgo.com";
+ygg = "http://sw.itgo.com/yggdrasil";
+az = "http://sw.itgo.com/pork";

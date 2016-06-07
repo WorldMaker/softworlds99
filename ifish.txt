@@ -1,0 +1,3 @@
+<!-- IFish Banner -->
+
+<p align=center><a href="http://infinitefish.com/"><img width=300 height=43 src="smbanner.jpg" alt="Backgrounds by Infinite Fish" border=0></a></p> 

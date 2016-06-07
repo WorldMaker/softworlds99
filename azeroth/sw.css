@@ -1,0 +1,37 @@
+H2 {
+color: red
+}
+IMG {
+border: 0
+}
+BODY {
+color: orange;
+}
+TABLE {
+align: center
+}
+TABLE.norm {
+background: black;
+width: 90%
+}
+.bar {
+background: red
+}
+TD.sub {
+font-size: 10pt
+}
+TH.att {
+background: red;
+color: black
+}
+TH {
+color: red;
+background: yellow
+}
+A {
+color: yellow;
+text-decoration: none
+}
+A:hover {
+text-decoration: underline
+}

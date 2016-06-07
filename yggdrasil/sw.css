@@ -1,0 +1,38 @@
+IMG {
+border: 0
+}
+BODY {
+color: lightgrey;
+}
+TABLE {
+align: center
+}
+TABLE.norm {
+background: black;
+width: 90%
+}
+.bar {
+background: darkgreen
+}
+TD.sub {
+font-size: 10pt
+}
+TD.subsub {
+font-size: 10pt;
+background: navy
+}
+TH.att {
+background: green;
+color: black
+}
+TH {
+color: red;
+background: yellow
+}
+A {
+color: yellow;
+text-decoration: none
+}
+A:hover {
+text-decoration: underline
+}
